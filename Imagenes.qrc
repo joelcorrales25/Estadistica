@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Imagenes">
+        <file>Imagenes/diagrama.png</file>
+        <file>Imagenes/grafico-de-barras.png</file>
+        <file>Imagenes/guardar-el-archivo.png</file>
+        <file>Imagenes/salida-de-emergencia.png</file>
+        <file>Imagenes/disquete.png</file>
+    </qresource>
+</RCC>
